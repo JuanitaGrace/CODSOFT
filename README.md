@@ -21,7 +21,7 @@ Welcome to my UX/UI design repository, showcasing projects completed during my i
 ## Getting Started
 
 To view or contribute to these designs:
-1. Clone the repository: `git clone https://github.com/your-username/your-repository.git`
+1. Clone the repository: `git clone https://github.com/JuanitaGrace/CODSOFT.git`
 2. Open Figma files using the Figma desktop app or web interface.
 
 ## Feedback
